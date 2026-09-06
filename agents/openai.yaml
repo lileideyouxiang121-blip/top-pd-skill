@@ -1,0 +1,7 @@
+interface:
+  display_name: "TOP_pd"
+  short_description: "以 AI 时代产品与业务负责人视角做战略、治理、增长及价值归因"
+  default_prompt: "Use $top-pd to reason like an AI-era product, product-operations, and business leader, then produce a prioritized and measurable recommendation."
+
+policy:
+  allow_implicit_invocation: true
